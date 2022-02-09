@@ -1,0 +1,11 @@
+[2/8, 7:48 PM] F.S.Mani: COMPARISION OPERATIONS 
+ FOR EXAMPLE X=30 AND Y=50
+ X<Y IS TRUE 
+ X>Y IS FALSE
+ X<=Y IS TRUE
+ X>=Y IS FALSE
+ X==Y IS FALSE
+ X!=Y IS TRUE
+[2/8, 7:48 PM] F.S.Mani: km=int(input('enter value for  kilometer'))
+cm=km*100000
+print(cm)
