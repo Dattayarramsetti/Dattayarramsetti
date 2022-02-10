@@ -1,0 +1,15 @@
+HaltikNo=int(input('enter Hall Ticket No:'))
+sname=input('enter student name:')
+sgroup=int(input('enter group:'))
+s1=int(input('English:'))
+s2=int(input('Analytical Skills:'))
+s3=int(input('Mathematics:'))
+s4=int(input('Statisrics:'))
+s5=int(input('Computer Science:'))
+s6=int(input('Statistics practical:'))
+s7=int(input('Computer Science Practical:'))
+if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6>=35 and s7>=35:
+ print ('PASS')
+else:
+ print('FAIL')
+    
