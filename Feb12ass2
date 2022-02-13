@@ -1,0 +1,10 @@
+a=int(input('enter value'))
+b=int(input('emter value'))
+if a==b:
+   print('equal')
+else:
+   print('Not equal')
+if a>b:
+   print('a is big',a)
+else:
+   print('b is big',b)
